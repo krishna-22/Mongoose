@@ -8,3 +8,5 @@ npm install body-parser --save
 npm install -g express generator
 npx express folder-name
 npm install mongoose --save
+npm install mongodb
+npm install assert
